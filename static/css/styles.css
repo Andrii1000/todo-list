@@ -1,0 +1,18 @@
+body {
+    margin-top: 20px;
+}
+
+.link-to-page {
+    float: right;
+    margin: 0 2px 0 2px;
+}
+
+.page-item-list {
+    display: block;
+    padding-top: 2rem;
+    align-items: center;
+}
+
+.deadline {
+    color: #bd001d;
+}
